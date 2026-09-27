@@ -1,6 +1,6 @@
 /**
  * @name TeamSpeakSounds
- * @author OpenAI
+ * @author Salutatorian
  * @version 1.3.4
  * @description Replaces Discord voice sounds and monitors microphone level for a speaking-while-muted reminder.
  */
